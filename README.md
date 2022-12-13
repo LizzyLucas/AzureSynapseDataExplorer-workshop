@@ -98,6 +98,8 @@ Nombre del área de trabajo:
 
   * El descargable se encuentra [aquí en .csv](https://github.com/LizzyLucas/AzureSynapseDataExplorer-workshop/blob/main/Resources/devices.csv).
 
+Nota: _Al finalizar no olviden eliminar todos los recursos creados y el grupo de recursos también._
+
 </details>
 
 <details><summary><h2> Recomendaciones extra. 💡 <h/2></summary>
