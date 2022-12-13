@@ -114,7 +114,7 @@ Nota: _Al finalizar no olviden eliminar todos los recursos creados y el grupo de
 
 ##
 
-**¡Bievenidas contribuciones!** :octocat: Built by _Lizzie Lucas: 🛠️.
+**¡Bievenidas contribuciones!** :octocat: Built by _Lizzie Lucas_ 🛠️
 
 
 
